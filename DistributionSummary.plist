@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SwingDataCollector.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>F307BEA8BCF14A2C39A87FBCB9FBCB320CB8704E</string>
+				<key>dateExpires</key>
+				<string>16/04/2026</string>
+				<key>type</key>
+				<string>Cloud Managed Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64_32</string>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>F307BEA8BCF14A2C39A87FBCB9FBCB320CB8704E</string>
+						<key>dateExpires</key>
+						<string>16/04/2026</string>
+						<key>type</key>
+						<string>Cloud Managed Apple Distribution</string>
+					</dict>
+					<key>entitlements</key>
+					<dict>
+						<key>application-identifier</key>
+						<string>56PMSRT3FR.EGK-Microelectronic-Solutions-Group-Sdn.-Bhd.SwingDataCollector.watchkitapp</string>
+						<key>com.apple.developer.team-identifier</key>
+						<string>56PMSRT3FR</string>
+						<key>get-task-allow</key>
+						<false/>
+					</dict>
+					<key>name</key>
+					<string>SwingDataCollector Watch App.app</string>
+					<key>profile</key>
+					<dict>
+						<key>UUID</key>
+						<string>2716d5ff-fe02-434c-a400-493f34aaf4b8</string>
+						<key>dateExpires</key>
+						<string>16/04/2026</string>
+						<key>name</key>
+						<string>iOS Team Ad Hoc Provisioning Profile: EGK-Microelectronic-Solutions-Group-Sdn.-Bhd.SwingDataCollector.watchkitapp</string>
+					</dict>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>56PMSRT3FR</string>
+						<key>name</key>
+						<string>Isaac Eng Gian Khor</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.0</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>56PMSRT3FR.EGK-Microelectronic-Solutions-Group-Sdn.-Bhd.SwingDataCollector</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>56PMSRT3FR</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>SwingDataCollector.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>f22ad7e4-bfe1-4bff-9d85-d9381fe2cc5c</string>
+				<key>dateExpires</key>
+				<string>16/04/2026</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: EGK-Microelectronic-Solutions-Group-Sdn.-Bhd.SwingDataCollector</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>56PMSRT3FR</string>
+				<key>name</key>
+				<string>Isaac Eng Gian Khor</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
